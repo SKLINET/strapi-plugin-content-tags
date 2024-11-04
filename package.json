@@ -1,5 +1,5 @@
 {
-    "name": "content-tags",
+    "name": "@sklinet/strapi-plugin-content-tags",
     "version": "1.0.0",
     "description": "A Strapi plugin that allows you to add custom tags to your content.",
     "keywords": [],
